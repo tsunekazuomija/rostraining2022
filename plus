@@ -9,7 +9,7 @@ def tonum(s):
         return int(s)
     except:
         return float(s)
-<<<<<<< HEAD
+
 ans = 0
 for line in sys.stdin:
     line = line.strip()
